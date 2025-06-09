@@ -1,0 +1,84 @@
+{
+  "routeAssets": {
+    "main": {
+      "chunkIds": [
+        272,
+        986,
+        991,
+        193,
+        651,
+        462,
+        179
+      ],
+      "assets": [
+        "/static/js/lib-polyfill.216ab4e3.js",
+        "/static/js/lib-lodash.9b905109.js",
+        "/static/js/lib-react.b15a9c6a.js",
+        "/static/js/lib-router.60a8322d.js",
+        "/static/js/462.f4adb8af.js",
+        "/static/css/main.bc882ad2.css",
+        "/static/js/main.f1cbc29e.js"
+      ],
+      "referenceCssAssets": [
+        "/static/css/main.bc882ad2.css"
+      ]
+    },
+    "$": {
+      "chunkIds": [
+        242
+      ],
+      "assets": [
+        "/static/js/async/$.29009950.js"
+      ],
+      "referenceCssAssets": []
+    },
+    "page": {
+      "chunkIds": [
+        768
+      ],
+      "assets": [
+        "/static/css/async/page.8ef412fc.css",
+        "/static/js/async/page.b6d722d6.js"
+      ],
+      "referenceCssAssets": [
+        "/static/css/async/page.8ef412fc.css"
+      ]
+    },
+    "static/notice/page": {
+      "chunkIds": [
+        613
+      ],
+      "assets": [
+        "/static/css/async/static/notice/page.82dfee22.css",
+        "/static/js/async/static/notice/page.0f61392e.js"
+      ],
+      "referenceCssAssets": [
+        "/static/css/async/static/notice/page.82dfee22.css"
+      ]
+    },
+    "static/privacy-policy/page": {
+      "chunkIds": [
+        738
+      ],
+      "assets": [
+        "/static/css/async/static/privacy-policy/page.82dfee22.css",
+        "/static/js/async/static/privacy-policy/page.f22976a8.js"
+      ],
+      "referenceCssAssets": [
+        "/static/css/async/static/privacy-policy/page.82dfee22.css"
+      ]
+    },
+    "static/terms/page": {
+      "chunkIds": [
+        740
+      ],
+      "assets": [
+        "/static/css/async/static/terms/page.82dfee22.css",
+        "/static/js/async/static/terms/page.6f0422b4.js"
+      ],
+      "referenceCssAssets": [
+        "/static/css/async/static/terms/page.82dfee22.css"
+      ]
+    }
+  }
+}
